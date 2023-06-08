@@ -1,6 +1,6 @@
 # Frontend Mentor - Easybank landing page solution
 
-This is a solution to the [Easybank landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Easybank landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -12,7 +12,6 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
-
 
 ## Overview
 
@@ -32,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/FredZabu/easybank-landing-page.git]
+- Live Site URL: [https://easybank-landing-page-git-main-fredzabu.vercel.app/]
 
 ### Built with
 
@@ -44,12 +43,10 @@ Users should be able to:
 
 ### Continued development
 
- - Redux state management
- - blockchain
+- Redux state management
+- blockchain
 
 ## Author
 
 - Frontend Mentor - [Fred Zabulon](https://www.frontendmentor.io/profile/fredzabu)
 - Twitter - [@FredZabulon](https://twitter.com/FredZabulon)
-
-
